@@ -392,14 +392,14 @@ export const blog = [
 export const testimonal = [
   {
     id: 1,
-    name: "ROGER SCOTT",
+    name: "VIRENDRA SINGH",
     post: "SOFTWARE ENGINEER",
     desc: "Best learning platform! Now I’m a software engineer",
     cover: "./images/testo/t1.webp",
   },
   {
     id: 2,
-    name: "ROBIN WILLIAMS",
+    name: "YUVRAJ PUROHIT",
     post: "MARKETING MANAGER",
     desc: "Great learning experience! Now I’m a Marketing Manager.",
     cover: "./images/testo/t2.webp",
@@ -407,8 +407,8 @@ export const testimonal = [
   {
     id: 3,
     name: "VEDANT JOSHI",
-    post: "WEB DEVELOPER",
-    desc: "I started with basic HTML and CSS—now I’m building full websites! The real-world assignments and clear guidance truly helped me grow as a web developer.",
+    post: "COLUD ENGINEER",
+    desc: "Expert Cloud Engineer specializing in secure, scalable, and efficient cloud systems.",
     cover: "./images/testo/t3.webp",
   },
 ]
